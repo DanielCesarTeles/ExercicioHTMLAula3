@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+.TituloDeLista{
+  text-align: left;
+}
+p{
+  text-align: justify;
+  text-indent: 20px;
+}
+a{
+  color: #000000;
+  text-decoration: none;
